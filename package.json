@@ -1,0 +1,32 @@
+{
+  "name": "astro-test-web",
+  "type": "module",
+  "version": "0.0.1",
+  "description": "",
+  "author": {
+    "name": "Neverkevich Maxim",
+    "email": "mneverkevich@darwinapps.com",
+    "url": "https://darwinapps.com"
+  },
+  "scripts": {
+    "start": "astro dev",
+    "build": "astro check && astro build"
+  },
+  "dependencies": {
+    "@astrojs/check": "^0.5.6",
+    "@astrojs/sitemap": "^3.1.1",
+    "@astrojs/tailwind": "^5.1.0",
+    "astro": "^4.4.5",
+    "astro-compress": "^2.2.11",
+    "astro-critters": "^2.1.2",
+    "astro-purgecss": "^4.1.0",
+    "purgecss": "^5.0.0",
+    "sass": "^1.71.1",
+    "tailwindcss": "^3.4.1",
+    "typescript": "^5.3.3"
+  },
+  "devDependencies": {
+    "@fontsource-variable/montserrat": "^5.0.17",
+    "lodash": "^4.17.21"
+  }
+}
