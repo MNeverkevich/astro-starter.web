@@ -5,8 +5,6 @@ import critters from "astro-critters";
 import purgecss from "astro-purgecss";
 import sitemap from '@astrojs/sitemap';
 
-import sitemap from "@astrojs/sitemap";
-
 // https://astro.build/config
 export default defineConfig({
   site: 'https://astro-stest.web',
