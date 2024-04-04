@@ -1,3 +1,3 @@
 await new PurgeCSS().purge({
-  skippedContentGlobs: ['node_modules/**', 'components/**']
-})
+  skippedContentGlobs: ["node_modules/**", "components/**"],
+});
